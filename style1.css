@@ -1,0 +1,187 @@
+*{margin:0px;
+}
+body{
+	background: url(../img/fon.jpg) repeat ;
+}
+
+.content {
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+#header{
+    width:80%;
+	height:100px;
+    margin: 0 auto;
+	background: url(../img/6.jpg) no-repeat ;
+	background-size: 100%;
+}
+
+#logo{ 
+      width:100%;
+    height:100px;
+    float: center;
+}
+
+#name {
+	margin-left:150px;
+	font-size: 40px;
+}
+
+#menu{
+    float: center;
+	margin-left:10%;
+	background:black;
+    width:80% ;
+    height: 20%;
+	}
+#menu a {
+  float: center;
+  width:80%;
+  height: 19%;
+display: block;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  margin-right: 0 auto;
+}
+
+#menu a:hover {
+  color:#B0E0E6;
+  text-decoration:none;
+  
+}
+
+#conteiner {
+width:100%;
+height:500px;
+
+
+} 
+
+
+#block1 {
+display:block;
+height:auto;
+width:65%;
+float:left;
+margin-left:10%;
+background: url(../img/6.jpg) repeat; 
+}
+
+#block2 {
+display:block;
+height:auto;
+width:15%;
+float:left;
+margin-right:10%;
+background: url(../img/6.jpg) repeat; 
+}
+
+form {
+  position: relative;
+  width: 150px;
+  margin: 0 auto;
+}
+
+
+button {
+  height: auto;
+  width: auto;
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  background: #F15B42;
+  cursor: pointer;
+}
+button:before {
+  content: "\f105";
+  font-family: FontAwesome;
+  color: #F9F0DA;
+  font-size: 15px;
+  font-weight: bold;
+  background-image: linear-gradient(to right, #5ce8ab 0%, #7bf2d0 51%, #6aed86 100%);
+  background-size: 100% auto;
+  box-shadow: 0 0 20px rgba(0,0,0,.1);
+  transition: .5s
+}
+
+.hovergallery img{
+-webkit-transform:scale(0.8); /*Webkit: уменьшаем размер до 0.8*/
+-moz-transform:scale(0.8); /*Mozilla: масштабирование*/
+-o-transform:scale(0.8); /*Opera: масштабирование*/
+-webkit-transition-duration: 0.5s; /*Webkit: длительность анимации*/
+-moz-transition-duration: 0.5s; /*Mozilla: длительность анимации*/
+-o-transition-duration: 0.5s; /*Opera: длительность анимации*/
+opacity: 1; /*Начальная прозрачность изображений*/
+margin: 0 10px 5px 0; /*Интервалы между изображениями*/
+}
+
+.hovergallery img:hover{
+-webkit-transform:scale(1.4); /*Webkit: увеличиваем размер до 1.2x*/
+-moz-transform:scale(1.1); /*Mozilla: масштабирование*/
+-o-transform:scale(1.1); /*Opera: масштабирование*/
+box-shadow:0px 0px 30px gray; /*CSS3 тени: 30px размытая тень вокруг всего изображения*/
+-webkit-box-shadow:0px 0px 30px white; /*Webkit: тени*/
+-moz-box-shadow:0px 0px 30px white; /*Mozilla: тени*/
+opacity: 1;
+}
+
+#rightbar{
+text-align: left;
+padding-top: 0%;
+padding-left: 2%;
+width: 65%;
+margin-left:10%;
+font-family: arial ;
+font-size: 100%;
+float:left;
+}
+
+
+#box1{
+background-position: center;
+height: 100%;
+width: 200px;
+float:right;
+font-family: arial ;
+font-size: 15px;
+text-align: center;
+margin-top: 15%;
+padding-left: 4%;
+}
+
+#box2{
+height:auto;
+width: auto;
+margin-top:10px;
+float:left;
+text-align: left;
+font-family: times new roman  ;
+font-size: 15px;
+padding-left:0px;
+}
+
+#box3{
+height:15px;
+width: 80px;
+margin-left:0px;
+float:left;
+text-align: left;
+font-family: times new roman  ;
+font-size: 15px;
+}
+
+#footer {
+width: 80%;
+background: black;
+float: left;
+margin-left:10%;
+color: white;
+font-family: times new roman ;
+font-size: 100%;
+text-align: left;
+}
+
