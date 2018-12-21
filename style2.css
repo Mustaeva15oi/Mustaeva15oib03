@@ -1,7 +1,7 @@
 *{margin:0px;
 }
 body{
-	background: url(../img/fon.jpg) repeat ;
+	background: url(https://mustaeva15oi.github.io/Mustaeva15oib03/img/fon.jpg) repeat ;
 }
 
 .content {
@@ -13,7 +13,7 @@ body{
     width:80%;
 	height:100px;
     margin: 0 auto;
-	background: url(../img/6.jpg) no-repeat ;
+	background: url(https://mustaeva15oi.github.io/Mustaeva15oib03/img/6.jpg) no-repeat ;
 	background-size: 100%;
 }
 
@@ -66,14 +66,14 @@ height:auto;
 width:35%;
 float:left;
 margin-left:10%;
-background: url(../img/6.jpg) repeat; 
+background: url(https://mustaeva15oi.github.io/Mustaeva15oib03/img/6.jpg) repeat; 
 }
 #block4 {
 display:block;
 height:auto;
 width:30%;
 float:left;
-background: url(../img/6.jpg) repeat; 
+background: url(https://mustaeva15oi.github.io/Mustaeva15oib03/img/6.jpg) repeat; 
 }
 
 #block2{
@@ -89,7 +89,7 @@ height:auto;
 width:15%;
 float:left;
 margin-right:10%;
-background: url(../img/6.jpg) repeat; 
+background: url(https://mustaeva15oi.github.io/Mustaeva15oib03/img/6.jpg) repeat; 
 }
 
 form {
@@ -121,44 +121,44 @@ button:before {
 }
 
 .hovergallery img{
--webkit-transform:scale(0.8); /*Webkit: уменьшаем размер до 0.8*/
--moz-transform:scale(0.8); /*Mozilla: масштабирование*/
--o-transform:scale(0.8); /*Opera: масштабирование*/
--webkit-transition-duration: 0.5s; /*Webkit: длительность анимации*/
--moz-transition-duration: 0.5s; /*Mozilla: длительность анимации*/
--o-transition-duration: 0.5s; /*Opera: длительность анимации*/
-opacity: 1; /*Начальная прозрачность изображений*/
-margin: 0 80px 10px 0; /*Интервалы между изображениями*/
+-webkit-transform:scale(0.8); /*Webkit: ГіГ¬ГҐГ­ГјГёГ ГҐГ¬ Г°Г Г§Г¬ГҐГ° Г¤Г® 0.8*/
+-moz-transform:scale(0.8); /*Mozilla: Г¬Г Г±ГёГІГ ГЎГЁГ°Г®ГўГ Г­ГЁГҐ*/
+-o-transform:scale(0.8); /*Opera: Г¬Г Г±ГёГІГ ГЎГЁГ°Г®ГўГ Г­ГЁГҐ*/
+-webkit-transition-duration: 0.5s; /*Webkit: Г¤Г«ГЁГІГҐГ«ГјГ­Г®Г±ГІГј Г Г­ГЁГ¬Г Г¶ГЁГЁ*/
+-moz-transition-duration: 0.5s; /*Mozilla: Г¤Г«ГЁГІГҐГ«ГјГ­Г®Г±ГІГј Г Г­ГЁГ¬Г Г¶ГЁГЁ*/
+-o-transition-duration: 0.5s; /*Opera: Г¤Г«ГЁГІГҐГ«ГјГ­Г®Г±ГІГј Г Г­ГЁГ¬Г Г¶ГЁГЁ*/
+opacity: 1; /*ГЌГ Г·Г Г«ГјГ­Г Гї ГЇГ°Г®Г§Г°Г Г·Г­Г®Г±ГІГј ГЁГ§Г®ГЎГ°Г Г¦ГҐГ­ГЁГ©*/
+margin: 0 80px 10px 0; /*Г€Г­ГІГҐГ°ГўГ Г«Г» Г¬ГҐГ¦Г¤Гі ГЁГ§Г®ГЎГ°Г Г¦ГҐГ­ГЁГїГ¬ГЁ*/
 margin-left:20px;
 }
 
 .hovergallery img:hover{
--webkit-transform:scale(2); /*Webkit: увеличиваем размер до 1.2x*/
--moz-transform:scale(1.1); /*Mozilla: масштабирование*/
--o-transform:scale(1.1); /*Opera: масштабирование*/
-box-shadow:0px 0px 30px gray; /*CSS3 тени: 30px размытая тень вокруг всего изображения*/
--webkit-box-shadow:0px 0px 30px white; /*Webkit: тени*/
--moz-box-shadow:0px 0px 30px white; /*Mozilla: тени*/
+-webkit-transform:scale(2); /*Webkit: ГіГўГҐГ«ГЁГ·ГЁГўГ ГҐГ¬ Г°Г Г§Г¬ГҐГ° Г¤Г® 1.2x*/
+-moz-transform:scale(1.1); /*Mozilla: Г¬Г Г±ГёГІГ ГЎГЁГ°Г®ГўГ Г­ГЁГҐ*/
+-o-transform:scale(1.1); /*Opera: Г¬Г Г±ГёГІГ ГЎГЁГ°Г®ГўГ Г­ГЁГҐ*/
+box-shadow:0px 0px 30px gray; /*CSS3 ГІГҐГ­ГЁ: 30px Г°Г Г§Г¬Г»ГІГ Гї ГІГҐГ­Гј ГўГ®ГЄГ°ГіГЈ ГўГ±ГҐГЈГ® ГЁГ§Г®ГЎГ°Г Г¦ГҐГ­ГЁГї*/
+-webkit-box-shadow:0px 0px 30px white; /*Webkit: ГІГҐГ­ГЁ*/
+-moz-box-shadow:0px 0px 30px white; /*Mozilla: ГІГҐГ­ГЁ*/
 opacity: 1;
 }
 .hovergallery1 img{
--webkit-transform:scale(0.8); /*Webkit: уменьшаем размер до 0.8*/
--moz-transform:scale(0.8); /*Mozilla: масштабирование*/
--o-transform:scale(0.8); /*Opera: масштабирование*/
--webkit-transition-duration: 0.5s; /*Webkit: длительность анимации*/
--moz-transition-duration: 0.5s; /*Mozilla: длительность анимации*/
--o-transition-duration: 0.5s; /*Opera: длительность анимации*/
-opacity: 1; /*Начальная прозрачность изображений*/
-margin: 0 2px 5px 0; /*Интервалы между изображениями*/
+-webkit-transform:scale(0.8); /*Webkit: ГіГ¬ГҐГ­ГјГёГ ГҐГ¬ Г°Г Г§Г¬ГҐГ° Г¤Г® 0.8*/
+-moz-transform:scale(0.8); /*Mozilla: Г¬Г Г±ГёГІГ ГЎГЁГ°Г®ГўГ Г­ГЁГҐ*/
+-o-transform:scale(0.8); /*Opera: Г¬Г Г±ГёГІГ ГЎГЁГ°Г®ГўГ Г­ГЁГҐ*/
+-webkit-transition-duration: 0.5s; /*Webkit: Г¤Г«ГЁГІГҐГ«ГјГ­Г®Г±ГІГј Г Г­ГЁГ¬Г Г¶ГЁГЁ*/
+-moz-transition-duration: 0.5s; /*Mozilla: Г¤Г«ГЁГІГҐГ«ГјГ­Г®Г±ГІГј Г Г­ГЁГ¬Г Г¶ГЁГЁ*/
+-o-transition-duration: 0.5s; /*Opera: Г¤Г«ГЁГІГҐГ«ГјГ­Г®Г±ГІГј Г Г­ГЁГ¬Г Г¶ГЁГЁ*/
+opacity: 1; /*ГЌГ Г·Г Г«ГјГ­Г Гї ГЇГ°Г®Г§Г°Г Г·Г­Г®Г±ГІГј ГЁГ§Г®ГЎГ°Г Г¦ГҐГ­ГЁГ©*/
+margin: 0 2px 5px 0; /*Г€Г­ГІГҐГ°ГўГ Г«Г» Г¬ГҐГ¦Г¤Гі ГЁГ§Г®ГЎГ°Г Г¦ГҐГ­ГЁГїГ¬ГЁ*/
 }
 
 .hovergallery1 img:hover{
--webkit-transform:scale(1.4); /*Webkit: увеличиваем размер до 1.2x*/
--moz-transform:scale(1.1); /*Mozilla: масштабирование*/
--o-transform:scale(1.1); /*Opera: масштабирование*/
-box-shadow:0px 0px 30px gray; /*CSS3 тени: 30px размытая тень вокруг всего изображения*/
--webkit-box-shadow:0px 0px 30px white; /*Webkit: тени*/
--moz-box-shadow:0px 0px 30px white; /*Mozilla: тени*/
+-webkit-transform:scale(1.4); /*Webkit: ГіГўГҐГ«ГЁГ·ГЁГўГ ГҐГ¬ Г°Г Г§Г¬ГҐГ° Г¤Г® 1.2x*/
+-moz-transform:scale(1.1); /*Mozilla: Г¬Г Г±ГёГІГ ГЎГЁГ°Г®ГўГ Г­ГЁГҐ*/
+-o-transform:scale(1.1); /*Opera: Г¬Г Г±ГёГІГ ГЎГЁГ°Г®ГўГ Г­ГЁГҐ*/
+box-shadow:0px 0px 30px gray; /*CSS3 ГІГҐГ­ГЁ: 30px Г°Г Г§Г¬Г»ГІГ Гї ГІГҐГ­Гј ГўГ®ГЄГ°ГіГЈ ГўГ±ГҐГЈГ® ГЁГ§Г®ГЎГ°Г Г¦ГҐГ­ГЁГї*/
+-webkit-box-shadow:0px 0px 30px white; /*Webkit: ГІГҐГ­ГЁ*/
+-moz-box-shadow:0px 0px 30px white; /*Mozilla: ГІГҐГ­ГЁ*/
 opacity: 1;
 }
 
